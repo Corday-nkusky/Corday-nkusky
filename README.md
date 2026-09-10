@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Corday-nkusky，a senior in Biology from China Nankai University.
-- 🙂 In fact,I only started learning programming in recent months.And I can not speak English so fluently so that learning programming is a little difficult for me, especially in some cutting-edge fields.
-- 🌱 I’m currently learning JavaScript/JAVA/C++
-- 📫 How to reach me ...emmm...my QQ number is 2947279300.You can contact me through my email number 2947279300@qq.com
-<!---
-Corday-nkusky/Corday-nkusky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 你好，我是 Corday 👋
+
+- 🎓 本科：南开大学生命科学学院 · 植物学 / 生态学
+- 📚 硕士：北京大学软件与微电子学院 · 研一
+- 🤖 关注方向：LLM、多模态（AI 初学者，还在积累经验）
+- 🛠️ 做过的小东西：[今天吃什么](https://corday-nkusky.github.io/what-to-eat/) —— 抽签转盘网页
+- 📫 联系我：corday@qq.com
+
+生物转码选手，喜欢把想法做成能跑起来的东西。
